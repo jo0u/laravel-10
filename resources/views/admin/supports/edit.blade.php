@@ -7,3 +7,4 @@
     <textarea name="body" id="" cols="30" rows="10" placeholder="Descrição">{{$support->body}}</textarea>
     <button type="submit">Enviar</button>
 </form>
+
